@@ -1,6 +1,6 @@
 # User Details CRUD App
 
-This is a simple Node.js application that demonstrates CRUD (create, read, update, delete) operations for a user details object with the following structure:
+This is a simple Node.js application that demonstrates CRUD (create, read, update, delete) operations for a user array with the following structure:
 
 - id
 - firstName
